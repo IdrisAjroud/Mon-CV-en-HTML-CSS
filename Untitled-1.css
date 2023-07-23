@@ -223,7 +223,9 @@ a:hover{
 header h1{
     width: 80%;
 }
-.prez, .contact:{
+.prez, .contact:
+{
+
     flex: 0 0 45%;
 }
 .prez{
